@@ -36,7 +36,7 @@
 
 ## 协议
 
-[![alt text](https://i.creativecommons.org/l/by-sa/4.0/80x15.png "知识共享 署名-相同方式共享 4.0 国际 许可协议")](http://creativecommons.org/licenses/by-sa/4.0/)
+[![alt text](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "知识共享 署名-相同方式共享 4.0 国际 许可协议")](http://creativecommons.org/licenses/by-sa/4.0/)
 
 署名必须在显著位置，即只要你的公开成品使用了本项目任何成果，就需要让该产品的任何用户都在使用前成功意识到本产品使用了“汉语加 Chinese Plus”项目，并可以轻松找到该项目的官方发布地址和使用的分支的发布地址。
 
