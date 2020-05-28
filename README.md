@@ -11,10 +11,10 @@
 ## 目标
 
 将汉语纯文本，使用以下语言：
-- PHP （PHP）
+- PHP （php）
 
 转换为以下格式：
-- HTML/CSS （HTML_CSS）
+- HTML/CSS （html_css）
 
 括号内为命名规范。
 
